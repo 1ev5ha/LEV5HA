@@ -4,4 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-My first CV and Web page https://Vargur31rus.github.io/rsschool-cv/
+My first CV and Web page https://Vargur31rus.github.io/rsschool-cv/<br>
+<b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
+ 
+ comming soon
