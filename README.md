@@ -5,6 +5,6 @@
 - 📫 How to reach me Telegram ID. <b>Aleksey_5010</b>
 
 - My first CV and Web page https://Vargur31rus.github.io/rsschool-cv/<br>
--<b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
+- <b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
  
  comming soon
