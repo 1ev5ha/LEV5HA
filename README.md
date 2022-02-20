@@ -8,6 +8,6 @@
 - <b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
 
 
-#The guys from RS School brought me to GitHub 14.12.2021. Stage 0.
+<b>The guys from RS School brought me to GitHub 14.12.2021. Stage 0.</b>
 
  comming soon...
