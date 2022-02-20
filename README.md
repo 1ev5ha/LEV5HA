@@ -4,7 +4,7 @@
 - 😎 I invite you to cooperate in the field of quality assurance.
 - 📫 How to reach me Telegram ID. <b>Aleksey_5010</b>
 
-- My first CV and Web page https://Vargur31rus.github.io/rsschool-cv/<br>
+- My first CV and Web page https://Vargur31rus.github.io/rsschool-cv-old/<br>
 - <b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
 
 
