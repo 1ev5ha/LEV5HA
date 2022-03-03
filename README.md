@@ -11,3 +11,8 @@
 <b>The guys from RS School brought me to GitHub 14.12.2021 [06/02/2022]. Stage 0.</b>
 
  comming soon...
+
+-----
+
+https://learngitbranching.js.org/?locale=ru_RU
+https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud
