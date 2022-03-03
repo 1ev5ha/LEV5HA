@@ -14,5 +14,5 @@
 
 -----
 
-https://learngitbranching.js.org/?locale=ru_RU
+https://learngitbranching.js.org/?locale=ru_RU                                       <br>
 https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud
