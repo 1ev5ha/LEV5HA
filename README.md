@@ -17,6 +17,6 @@
 https://learngitbranching.js.org/?locale=ru_RU                                       <br>
 https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud    <br>
 
-##GIT BOOK
+## GIT BOOK
 https://git-scm.com/book/ru/v2<br>
 https://elearn.epam.com/assets/courseware/v1/d8b3970d06d567a94e0bb179b8d84acb/asset-v1:EPAM+VCG+RU+type@asset+block/DevTestOps-Version_Control_with_Git.pdf
