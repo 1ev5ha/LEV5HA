@@ -28,7 +28,8 @@ First, COVID changed the world, burnout at work, and after the military conflict
 * *Industrial engineering. As a Quality Engineer and negotiator* 
 
 **Freelance**
-* *Insisted Analytics and advertising companies*
+* *Creation of websites on Tilda and Nethouse constructors +SEO*
+* *Insisted Analytics (Yandex, Google) and advertising companies*
 * *SMM*
 
 ## Education
