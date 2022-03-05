@@ -35,7 +35,7 @@ First, COVID changed the world, burnout at work, and after the military conflict
 ## Education
 * Html, CSS, - HTML Academy
 * JavaScript, Html, CSS and other - RollingScopes 2021Q1
-* Other Education platforms
+* Other Education platforms (EPAM, GeekBrains, Netology, Yandex, Stepik, Hexlet)
 
 * **2001-2006** Belgorod Shukhov State Technological University -
 Road and airfield construction engineer.
