@@ -1,22 +1,67 @@
-- 👋 Hi, I’m @Vargur31rus
-- 👀 I’m interested in HTML, CSS, JS and QA.
-- 🌱 I’m currently learning QA and HTML, CSS, JS.
-- 😎 I invite you to cooperate in the field of quality assurance.
-- 📫 How to reach me Telegram ID. <b>Aleksey_5010</b>
+## Contacs
+**Tel:** +7 (910) 737 60 16 (MTS)\
+**Telegram:** +79107376016\
+**E-mail:** 31work@gmail.com\
+**Discord:** Vargur#3952
+
+## About me
+👋 Hi, I have loved the IT industry since childhood. During my school years, I loved creating animations in Macromedia Dremweawer and writing in HTML.
+Adulthood has set priorities in its own way.
+The main priority is work in the specialty. In the field of industrial construction. Control engineer.
+Secondary direction: freelancing, web development on constructors (Tilda, Nethouse), SEO-optimization, advertising. For small and medium businesses.
+First, COVID changed the world, burnout at work, and after the military conflict affected my priorities...
+
+## Skills
+* HTML 5/10
+* CSS 2/10
+* JavaScript 1/10
+* GIT 2/10
+* Figma 4/10
+* PhotoShop 7/10
+
+## Codewars
+[Codewars](https://www.codewars.com/users/Vargur31rus)   
+![](https://www.codewars.com/users/Vargur31rus/badges/large)
+
+## Work Experience
+**Main stream**
+* *Industrial engineering. As a Quality Engineer and negotiator* 
+
+**Freelance**
+* *Insisted Analytics and advertising companies*
+* *SMM*
+
+## Education
+* Html, CSS, - HTML Academy
+* JavaScript, Html, CSS and other - RollingScopes 2021Q1
+* Other Education platforms
+
+* **2001-2006** Belgorod Shukhov State Technological University -
+Road and airfield construction engineer.
+
+## Languages
+English — A2 \
+Russian
+
+## Hobbies
+* Videogames (PC, PS)
+* Desing 
+* Music (Spotify member)
+* Self-development
+## PS
 
 - My first CV and Web page https://Vargur31rus.github.io/rsschool-cv-old/<br>
 - <b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
 
-
 <b>The guys from RS School brought me to GitHub 14.12.2021 [06/02/2022]. Stage 0.</b>
 
- comming soon...
 
------
-
+## GIT 
 https://learngitbranching.js.org/?locale=ru_RU                                       <br>
 https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud    <br>
 
 ## GIT BOOK
 https://git-scm.com/book/ru/v2<br>
 https://elearn.epam.com/assets/courseware/v1/d8b3970d06d567a94e0bb179b8d84acb/asset-v1:EPAM+VCG+RU+type@asset+block/DevTestOps-Version_Control_with_Git.pdf
+
+ comming soon...
