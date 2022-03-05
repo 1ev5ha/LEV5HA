@@ -5,10 +5,10 @@
 **Discord:** Vargur#3952
 
 ## About me
-👋 Hi, I have loved the IT industry since childhood. During my school years, I loved creating animations in Macromedia Dremweawer and writing in HTML.
-Adulthood has set priorities in its own way.
-The main priority is work in the specialty. In the field of industrial construction. Control engineer.
-Secondary direction: freelancing, web development on constructors (Tilda, Nethouse), SEO-optimization, advertising. For small and medium businesses.
+👋 Hi, I have loved the IT industry since childhood. During my school years, I loved creating animations in Macromedia Dremweawer and writing in HTML.<br>
+Adulthood has set priorities in its own way.<br>
+The main priority is work in the specialty. In the field of industrial construction. Control engineer.<br>
+Secondary direction: freelancing, web development on constructors (Tilda, Nethouse), SEO-optimization, advertising. For small and medium businesses.<br>
 First, COVID changed the world, burnout at work, and after the military conflict affected my priorities...
 
 ## Skills
