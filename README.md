@@ -68,4 +68,7 @@ https://elearn.epam.com/assets/courseware/v1/d8b3970d06d567a94e0bb179b8d84acb/as
 ## CSS 
 https://cssreference.io/
 
+## JS
+https://learn.javascript.ru
+
  comming soon...
