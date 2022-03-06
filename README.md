@@ -71,4 +71,7 @@ https://cssreference.io/
 ## JS
 https://learn.javascript.ru
 
+##normalize.css
+http://necolas.github.io/normalize.css/
+
  comming soon...
