@@ -75,8 +75,8 @@ https://learn.javascript.ru
 http://necolas.github.io/normalize.css/
 
 ## Flex box
-https://flexboxfroggy.com/#ru
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://tpverstak.ru/flex-cheatsheet/
+https://flexboxfroggy.com/#ru<br>
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/<br>
+https://tpverstak.ru/flex-cheatsheet/<br>
 
- comming soon...
+## comming soon...
