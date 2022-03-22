@@ -60,6 +60,7 @@ Russian
 ## GIT 
 https://learngitbranching.js.org/?locale=ru_RU                                       <br>
 https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud    <br>
+## https://ohshitgit.com/ru
 
 ## GIT BOOK
 https://git-scm.com/book/ru/v2<br>
