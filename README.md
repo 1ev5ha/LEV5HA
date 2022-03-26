@@ -52,7 +52,8 @@ Russian
 ## PS
 
 - My first CV and Web page https://Vargur31rus.github.io/rsschool-cv-old/<br>
-- <b>This is latest CV </b>https://vargur31rus.github.io/my-new-CV/
+- my cv Frankenstein https://vargur31rus.github.io/my-new-CV/<br>
+- <b>This is latest CV </b>https://vargur31rus.github.io/rsschool-cv/
 
 <b>The guys from RS School brought me to GitHub 14.12.2021 [06/02/2022]. Stage 0.</b>
 
