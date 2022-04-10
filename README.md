@@ -20,11 +20,10 @@ First, COVID changed the world, burnout at work, and after the military conflict
 * PhotoShop 7/10
 
 ## Codewars
-(https://www.codewars.com/users/Vargur31rus)   
+[Codewars](https://www.codewars.com/users/Vargur31rus)   
 ![](https://www.codewars.com/users/Vargur31rus/badges/large)
 
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>
-
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/><br>
 
 ## Work Experience
 **Main stream**
