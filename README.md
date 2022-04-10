@@ -19,11 +19,11 @@ First, COVID changed the world, burnout at work, and after the military conflict
 * Figma 4/10
 * PhotoShop 7/10
 
-## Codewars
 [Codewars](https://www.codewars.com/users/Vargur31rus)   
 ![](https://www.codewars.com/users/Vargur31rus/badges/large)
 
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/><br>
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>
+
 
 ## Work Experience
 **Main stream**
