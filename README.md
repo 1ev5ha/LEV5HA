@@ -18,8 +18,6 @@ First, COVID changed the world, burnout at work, and after the military conflict
 * CSS 2/10
 * JavaScript 1/10
 * GIT 2/10
-* Figma 4/10
-* PhotoShop 7/10
 
 ## Codewars
 [Codewars](https://www.codewars.com/users/Vargur31rus)   
