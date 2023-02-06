@@ -1,6 +1,6 @@
 ## Contacs
-**Tel:** +7 (910) 737 60 16 (MTS)\
-**Telegram:** +79107376016\
+**Tel:** +7 (910) (MTS)\
+**Telegram:** +7910\
 **E-mail:** 31work@gmail.com\
 **Discord:** Vargur#3952
 
