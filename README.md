@@ -13,11 +13,9 @@
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>     
      
     
-## Skills    
-* HTML 5/10   
-* CSS 2/10      
-* JavaScript 1/10    
-* GIT 2/10    
+  
+
+
 
 ## Codewars
 [Codewars](https://www.codewars.com/users/Vargur31rus)   
