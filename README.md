@@ -5,11 +5,7 @@
 **Discord:** Vargur#3952
 
 ## About me
-👋 Hi, I have loved the IT industry since childhood. During my school years, I loved creating animations in Macromedia Dremweawer and writing in HTML.<br>
-Adulthood has set priorities in its own way.<br>
-The main priority is work in the specialty. In the field of industrial construction. Control engineer.<br>
-Secondary direction: freelancing, web development on constructors (Tilda, Nethouse), SEO-optimization, advertising. For small and medium businesses.<br>
-First, COVID changed the world, burnout at work, and after the military conflict affected my priorities...
+👋 Now is better than never. Although never is often better than *right* now.
 
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>
 
