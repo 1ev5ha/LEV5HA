@@ -1,7 +1,7 @@
 ## Contacs
-**Telegram:** (https://t.me/a_s0lo)
-**E-mail:** 31work@gmail.com
-**Discord:** Vargur#3952
+**Telegram:** (https://t.me/a_s0lo)    
+**E-mail:** 31work@gmail.com    
+**Discord:** Vargur#3952    
 
 ## About me
 👋 Hi, I'm Alexey Vasilenko - QA Engineer.
