@@ -12,6 +12,7 @@
 
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>
 
+<br>
 ## Skills
 * HTML 5/10
 * CSS 2/10
