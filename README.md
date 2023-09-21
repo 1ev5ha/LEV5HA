@@ -1,16 +1,16 @@
 ## Contacs
 **Telegram:** (https://t.me/a_s0lo)
 **E-mail:** 31work@gmail.com
-**Discord:** Vargur#3952
+**Discord:** Vargur#3952 \
 
 ## About me
 👋 Hi, I'm Alexey Vasilenko - QA Engineer.
 👀 I'm interested in work.
 🌱 Now I'm learning Python and HTML/CSS.
 💞️ I will be glad to cooperate with interesting projects.
-📫 Contact me - via telegram or write to me by email.
+📫 Contact me - via telegram or write to me by email. \
 
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargur31rus&layout=compact&theme=buefy&hide_border=none"/>\
 
 <br>
 ## Skills
