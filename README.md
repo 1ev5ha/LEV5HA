@@ -15,10 +15,10 @@
 
 
 ## Skills    
-* HTML 5/10   
-* CSS 2/10      
+* HTML 7/10   
+* CSS 4/10      
 * JavaScript 1/10    
-* GIT 2/10  
+* GIT 4/10  
 
 ## Codewars
 [Codewars](https://www.codewars.com/users/Vargur31rus)   
