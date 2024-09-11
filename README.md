@@ -21,7 +21,7 @@
 * GIT 4/10  
 
 ## Codewars
-[Codewars](https://www.codewars.com/users/LEV5HA)   
+[Codewars]([https://www.codewars.com/users/LEV5HA](https://www.codewars.com/users/LEV5HA))   
 ![](https://www.codewars.com/users/Vargur31rus/badges/large)
 
 ## Work Experience
